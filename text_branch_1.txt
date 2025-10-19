@@ -1,1 +1,2 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This line is added to branch 1 before merging branch 5.
